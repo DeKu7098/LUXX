@@ -1,0 +1,7 @@
+.shop {
+    display: inline-flex;
+}
+
+.shop shop1 {
+    justify-content: space-between;
+}
